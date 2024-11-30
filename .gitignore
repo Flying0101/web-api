@@ -2,4 +2,5 @@
 .vs/
 
 # Ignore build output
+bin/
 obj/
